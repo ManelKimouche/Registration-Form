@@ -1,0 +1,68 @@
+
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  
+}
+#my-form {
+  
+  background: #f4f4f4;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#my-form label{
+  font-size: 16px;
+  padding: 8px;
+  margin-bottom: 10px;
+  
+}
+#my-form input{
+  width: 85%;
+  font-size: 16px;
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-left:   3%;
+  padding-right: 5%;
+}
+
+#my-form button{
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+.container {
+  margin: auto;
+  padding: 3rem 2rem;
+  
+}
+h5{
+  padding-top: 10%;
+}
+.btn {
+  width: 100%;
+}
+
+header {
+  background: #f4f4f4;
+  padding: 1rem;
+  text-align: center;
+  
+} 
+.error {
+  background: rgb(192, 126, 103);
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 4px;
+} 
+
+.display_r {
+  background: #26a69a;
+  color: #fff;
+  
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  text-align: center;
+} 
+
